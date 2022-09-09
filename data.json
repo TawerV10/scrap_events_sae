@@ -1,0 +1,247 @@
+[
+    {
+        "Title": "SAE Powertrains, Fuels & Lubricants Conference & Exhibition",
+        "Category": "Automotive",
+        "Data Range": "Krakow, Poland",
+        "Location": "September 6-8, 2022",
+        "Link": "https://www.sae.org/attend/pfl"
+    },
+    {
+        "Title": "Hybrid and EV Symposium, an SAE Sustainability Event",
+        "Category": "Automotive",
+        "Data Range": "Garden Grove, California, USA",
+        "Location": "September 13-15, 2022",
+        "Link": "https://www.sae.org/attend/hybrid"
+    },
+    {
+        "Title": "SAE On-Board Diagnostics Symposium",
+        "Category": "Automotive",
+        "Data Range": "Garden Grove, California, USA",
+        "Location": "September 13-15, 2022",
+        "Link": "/attend/obd-na"
+    },
+    {
+        "Title": "COMVEC™",
+        "Category": "Commercial",
+        "Data Range": "Indianapolis, Indiana, USA",
+        "Location": "September 20-22, 2022",
+        "Link": "https://www.sae.org/attend/comvec"
+    },
+    {
+        "Title": "SAE 2022 Intelligent and Connected Vehicles Symposium",
+        "Category": "Automotive",
+        "Data Range": "Shanghai, China",
+        "Location": "September 22-23, 2022",
+        "Link": "https://www.bagevent.com/event/sae2022-icvs-en"
+    },
+    {
+        "Title": "Brake Colloquium & Exhibition - 40th Annual",
+        "Category": "Automotive",
+        "Data Range": "Grand Rapids, Michigan, USA",
+        "Location": "September 25-28, 2022",
+        "Link": "https://www.sae.org/attend/brake"
+    },
+    {
+        "Title": "Urban Ground Mobility Digital Summit",
+        "Category": "Automotive",
+        "Data Range": "Online, Pennsylvania, USA",
+        "Location": "October 4-5, 2022",
+        "Link": "https://www.sae.org/attend/urban-ground-mobility/"
+    },
+    {
+        "Title": "SAE Thermal Management Systems Symposium",
+        "Category": "Automotive",
+        "Data Range": "Plymouth, Michigan, USA",
+        "Location": "October 4-5, 2022",
+        "Link": "https://www.sae.org/attend/thermal"
+    },
+    {
+        "Title": "SAE MobilityForward Challenge: Artificial Intelligence Mini-Challenge",
+        "Category": "Automotive",
+        "Data Range": "Online, Pennsylvania, USA",
+        "Location": "October 26-27, 2022",
+        "Link": null
+    },
+    {
+        "Title": "European Electric Vehicle Charging Infrastructure Conference, an SAE Sustainability Event",
+        "Category": "Automotive",
+        "Data Range": "Online, Pennsylvania, USA",
+        "Location": "November 9-10, 2022",
+        "Link": "https://www.sae.org/attend/europe-electric-vehicle-charging-infrastructure-conference"
+    },
+    {
+        "Title": "North American International Propulsion Conference",
+        "Category": "Automotive",
+        "Data Range": "Chicago, Illinois, USA",
+        "Location": "November 16-18, 2022",
+        "Link": "https://www.sae.org/attend/naipc"
+    },
+    {
+        "Title": "DoD Maintenance Symposium",
+        "Category": "Govt/Defense",
+        "Data Range": "Orlando, Florida, USA",
+        "Location": "December 12-15, 2022",
+        "Link": "https://www.sae.org/attend/dod"
+    },
+    {
+        "Title": "Defense Maintenance and Logistics Exhibition",
+        "Category": "Govt/Defense",
+        "Data Range": "Orlando, Florida, USA",
+        "Location": "December 12-15, 2022",
+        "Link": "https://www.sae.org/attend/defense-maintenance-and-logistics-exhibition/"
+    },
+    {
+        "Title": "Government/Industry Meeting",
+        "Category": "Automotive",
+        "Data Range": "Washington, District of Columbia, USA",
+        "Location": "January 17-19, 2023",
+        "Link": "http://www.sae.org/gim"
+    },
+    {
+        "Title": "SAE On-Board Diagnostics Symposium - Europe",
+        "Category": "Automotive",
+        "Data Range": "Prague, Czech Republic",
+        "Location": "March 14-16, 2023",
+        "Link": "https://www.sae.org/attend/obd-europe?utm_source=google&utm_campaign=WCX22"
+    },
+    {
+        "Title": "AeroTech",
+        "Category": "Aerospace",
+        "Data Range": "Ft. Worth, Texas, USA",
+        "Location": "March 14-16, 2023",
+        "Link": "https://www.sae.org/attend/aerotech/"
+    },
+    {
+        "Title": "WCX SAE World Congress Experience",
+        "Category": "Automotive",
+        "Data Range": "Detroit, Michigan, USA",
+        "Location": "April 18-20, 2023",
+        "Link": "https://www.sae.org/highlights/wcx"
+    },
+    {
+        "Title": "SAE Heavy-Duty Diesel Sustainable Transport Symposium",
+        "Category": "Automotive",
+        "Data Range": "Gothenburg, Sweden",
+        "Location": "May 3-4, 2023",
+        "Link": "https://www.sae.org/attend/heavy-duty-diesel-sustainable-transport-symposium"
+    },
+    {
+        "Title": "Noise and Vibration Conference & Exhibition",
+        "Category": "Automotive",
+        "Data Range": "Grand Rapids, Michigan, USA",
+        "Location": "May 15-18, 2023",
+        "Link": "https://www.sae.org/attend/nvh"
+    },
+    {
+        "Title": "International Conference on Icing of Aircraft, Engines, and Structures",
+        "Category": "Aerospace",
+        "Data Range": "Vienna, Austria",
+        "Location": "June 19-23, 2023",
+        "Link": "https://www.sae.org/attend/icing/"
+    },
+    {
+        "Title": "JSAE/SAE Powertrains, Energy and Lubricants International Meeting",
+        "Category": "Automotive",
+        "Data Range": "Kyoto, Japan",
+        "Location": "August 29-September 1, 2023",
+        "Link": "https://2023pel.jp/"
+    },
+    {
+        "Title": "COMVEC™",
+        "Category": "Commercial",
+        "Data Range": "Chicago, Illinois, USA",
+        "Location": "September 19-21, 2023",
+        "Link": null
+    },
+    {
+        "Title": "North American International Powertrain Conference",
+        "Category": "Automotive",
+        "Data Range": "Chicago, Illinois, USA",
+        "Location": "September 27-29, 2023",
+        "Link": null
+    },
+    {
+        "Title": "SAE Thermal Management Systems Symposium",
+        "Category": "Automotive",
+        "Data Range": "Plymouth, Michigan, USA",
+        "Location": "October 3-4, 2023",
+        "Link": null
+    },
+    {
+        "Title": "Small Powertrains and Energy Systems Technology Conference",
+        "Category": "Automotive",
+        "Data Range": "Minneapolis, Minnesota, USA",
+        "Location": "October 31-November 2, 2023",
+        "Link": null
+    },
+    {
+        "Title": "SAE Powertrains, Fuels & Lubricants Conference & Exhibition",
+        "Category": "Automotive",
+        "Data Range": "Greenville, South Carolina, USA",
+        "Location": "November 7-9, 2023",
+        "Link": null
+    },
+    {
+        "Title": "Brake Colloquium & Exhibition - 41st Annual",
+        "Category": "Automotive",
+        "Data Range": "San Antonio, Texas, USA",
+        "Location": "November 12-15, 2023",
+        "Link": null
+    },
+    {
+        "Title": "Government/Industry Meeting",
+        "Category": "Automotive",
+        "Data Range": "Washington, District of Columbia, USA",
+        "Location": "January 17-19, 2024",
+        "Link": null
+    },
+    {
+        "Title": "WCX SAE World Congress Experience",
+        "Category": "Automotive",
+        "Data Range": "Detroit, Michigan, USA",
+        "Location": "April 16-18, 2024",
+        "Link": null
+    },
+    {
+        "Title": "COMVEC™",
+        "Category": "Commercial",
+        "Data Range": "Schaumburg, Illinois, USA",
+        "Location": "September 10-12, 2024",
+        "Link": null
+    },
+    {
+        "Title": "KSAE/SAE Powertrains, Fuels & Lubricants Meeting & Exhibition",
+        "Category": "Automotive",
+        "Data Range": "Pusan, South Korea",
+        "Location": "October 20-23, 2024",
+        "Link": null
+    },
+    {
+        "Title": "Government/Industry Meeting",
+        "Category": "Automotive",
+        "Data Range": "Washington, District of Columbia, USA",
+        "Location": "January 29-31, 2025",
+        "Link": null
+    },
+    {
+        "Title": "WCX SAE World Congress Experience",
+        "Category": "Automotive",
+        "Data Range": "Detroit, Michigan, USA",
+        "Location": "April 8-10, 2025",
+        "Link": null
+    },
+    {
+        "Title": "Noise & Vibration Conference & Exhibition",
+        "Category": "Automotive",
+        "Data Range": "Grand Rapids, Michigan, USA",
+        "Location": "May 12-16, 2025",
+        "Link": null
+    },
+    {
+        "Title": "COMVEC™",
+        "Category": "Commercial",
+        "Data Range": "Schaumburg, Illinois, USA",
+        "Location": "September 16-18, 2025",
+        "Link": null
+    }
+]
